@@ -1,0 +1,1 @@
+create schema netology_23;
